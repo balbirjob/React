@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
-export default class Nav extends Component {
+export default className Nav extends Component {
   render() {
     return (
-      <h2>Nav form class</h2>
+      <h2>Nav form className</h2>
     )
   }
 }

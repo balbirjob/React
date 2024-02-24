@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
-export default class Body extends Component {
+export default className Body extends Component {
   render() {
     return (
-      <h3>Body form class</h3>
+      <h3>Body form className</h3>
     )
   }
 }

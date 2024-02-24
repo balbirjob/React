@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
-export default class Footer extends Component {
+export default className Footer extends Component {
   render() {
     return (
-      <h5>Footer form class</h5>
+      <h5>Footer form className</h5>
     )
   }
 }
